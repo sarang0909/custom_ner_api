@@ -48,8 +48,6 @@ Then sample 250 sentences annotated using <a href="https://doccano.github.io/doc
 
 ### Model Building   
  
-Input vectors used : TF-IDF, word embeddings from distilbert,word embeddings from sentence transformer
-
 Model techniques used : 
 
 1.Spacy   
