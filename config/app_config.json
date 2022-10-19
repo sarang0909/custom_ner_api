@@ -1,0 +1,10 @@
+{
+    "application_name": "custom_ner_api",
+    "log_folder_path": "logs",
+    "log_file_name": "custom_ner_api.log",
+    "max_log_file_size": "5000000",
+    "log_files_backup_count": "10",
+    "log_formatter": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "models_dir": "src/models",
+    "model_file": "dummy_model.p"
+}

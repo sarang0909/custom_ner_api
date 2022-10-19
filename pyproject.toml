@@ -1,0 +1,11 @@
+[tool.black]
+line-length = 79
+include = '\.py'
+exclude = '''
+(
+    \.git
+  | build
+  | dist
+  | .*.pyc
+)
+'''
