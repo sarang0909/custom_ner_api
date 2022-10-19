@@ -21,7 +21,7 @@ This code can be used for end to end NER project development as well as deployme
 If you are only looking to learn/use model building techniques,directly jump to notebooks:   
 1.[Custom NER using Spacy](src/training/spacy_training/custom_ner_spacy.ipynb)    
 2.[Custom NER using transformers](src/training/custom_ner_transformers.ipynb)    
-3.[Cusstom NER using custom Neural Network using Pytorch](src/training/custom_ner_dl.ipynb)  
+3.[Custom NER using custom Neural Network using Pytorch](src/training/custom_ner_dl.ipynb)  
 
 
 The basic code template for this project is derived from my another repo <a href="https://github.com/sarang0909/Code_Template">code template</a> 
