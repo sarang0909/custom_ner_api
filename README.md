@@ -169,6 +169,7 @@ Here we have created ML inference on FastAPI server with dummy model output.
       conda activate custom_ner_api  
       streamlit run main_streamlit.py 
   ```  
+[streamlit-video-custom-ner.webm](https://user-images.githubusercontent.com/31824267/196753129-f98d1672-a808-491e-9983-d0ff7d4dceae.webm)
 
  
 ### Unit Testing
