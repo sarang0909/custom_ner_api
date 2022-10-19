@@ -222,6 +222,7 @@ Here we have created ML inference on FastAPI server with dummy model output.
 
 ## Note
 1.custom_ner_dl is not complete/need to be researched more.hence not included in final inference.But notebook is present.   
+2.models are not checked in because of size. You can generate  models by running corresponding notebooks.   
 
 
 ## Contributing
