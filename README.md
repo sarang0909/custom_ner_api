@@ -1,6 +1,6 @@
 # custom_ner_api : Production Ready Code
 
-
+[streamlit-video-custom-ner.webm](https://user-images.githubusercontent.com/31824267/196753129-f98d1672-a808-491e-9983-d0ff7d4dceae.webm)
 ## About  
 This is a project developed to create a code template and to understand different Named Entity Recognition(NER) methods for custom entities. This project includes different training notebooks to create different kind of custom NER models. This project also includes a code to make productionaized NER api using standard practices in MLOps.   
 
@@ -167,7 +167,7 @@ Here we have created ML inference on FastAPI server with dummy model output.
       conda activate custom_ner_api  
       streamlit run main_streamlit.py 
   ```  
-[streamlit-video-custom-ner.webm](https://user-images.githubusercontent.com/31824267/196753129-f98d1672-a808-491e-9983-d0ff7d4dceae.webm)
+
 
  
 ### Unit Testing
